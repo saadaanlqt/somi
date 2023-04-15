@@ -1,0 +1,171 @@
+#title {
+    background-color: #FFA3FD;
+    font-family: "Montserrat";
+}
+
+.title-section {
+    position: relative;
+    z-index: 1;
+}
+
+.navbar {
+    background-color: #191825;
+}
+
+.header {
+    color: #865DFF;
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.fa-regular {
+    padding-right: 5px;
+}
+
+.fa-solid {
+    padding-right: 5px;
+}
+
+.btn-1 {
+    background-color: #865DFF;
+}
+
+.btn-2 {
+    background-color: #865DFF;
+}
+
+.logo {
+    width: 35%;
+
+}
+
+.number {
+    color: white;
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.features-p {
+    color: #8F8F8F;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+    color: #865DFF;
+    font-family: 'SchoolBell', cursive;
+    font-size: 3.5rem;
+    font-weight: 700;
+
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 300;
+    color: #865DFF;
+}
+
+.navbar {
+    background-color: #FFA3FD;
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-toggler {
+    background-color: #865DFF;
+}
+
+.toggler {
+    font-size: 28px;
+    padding-left: 3px;
+}
+
+
+/* Button */
+
+.download-button {
+    margin: 10% 3% 5% 0;
+}
+
+.number:hover {
+    color: white;
+}
+
+.send-gift:hover {
+    color: white;
+}
+
+.send-gift {
+    color: white;
+}
+
+/* Flower Image */
+
+.flower {
+    width: 100%;
+    transform: rotate(20deg);
+    padding-left: 100px;
+    
+
+}
+
+/* Features */
+
+#features {
+    padding: 7% 15%;
+    text-align: center;
+
+
+}
+
+.attributes {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.icon {
+    padding-bottom: 40px;
+}
+
+/* Testimonials */
+
+#timeline {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #FFA3FD;
+    color: #865DFF;
+}
+
+.somi1 {
+    width: 25%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Footer */
+
+.btn-footer {
+    background-color: #865DFF;
+    color: white;
+}
